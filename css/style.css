@@ -1,0 +1,19 @@
+body p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+
+.banner-style h1{
+  font-size: 75px;
+}
+
+.banner-style p{
+  font-size: 30px;
+}
+/* 
+.hr{
+  background-color: linear-gradient(to right,
+  rgba(229, 236, 253, .05),
+  rgba(229, 236, 253, .5),
+  rgba(229, 236, 253, .05); 
+} */
